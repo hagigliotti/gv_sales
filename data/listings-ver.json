@@ -1,0 +1,102 @@
+[
+  {
+    "id": "0001",
+    "categoria": "auto",
+    "destacado": true,
+    "estado": "disponible",
+    "marca": "Citroën",
+    "modelo": "C3",
+    "anio": 2012,
+    "precio": 3990,
+    "moneda": "EUR",
+    "km": 195500,
+    "combustible": ["Nafta", "GPL"],
+    "transmision": "Manual",
+    "color": "Blanco",
+    "resumen": {
+      "es": "Segundo dueño, service al día, muy cuidado por dentro y por fuera."
+    },
+    "descripcion": {
+      "es": "Citroën C3 blanco, segundo dueño, con toda la documentación al día. Service siempre hecho en agencia oficial, cubiertas con buena vida útil restante. Interior impecable, sin roturas ni manchas. Aire acondicionado, dirección asistida, cierre centralizado y bluetooth. Ideal primer auto o uso diario en ciudad."
+    },
+    "fotos": [
+      "images/HC187TK/1.jpg",
+      "images/HC187TK/2.jpg",
+      "images/HC187TK/3.jpg"
+    ]
+  },
+  {
+    "id": "0002",
+    "categoria": "auto",
+    "destacado": false,
+    "estado": "disponible",
+    "marca": "Citroën",
+    "modelo": "C3",
+    "anio": 2019,
+    "precio": 11200,
+    "moneda": "EUR",
+    "km": 58000,
+    "combustible": "Nafta",
+    "transmision": "Manual",
+    "color": "Negro",
+    "resumen": {
+      "es": "Mismo modelo que el blanco, en negro. Buen estado general."
+    },
+    "descripcion": {
+      "es": "Citroën C3 negro, motor a nafta, caja manual. Andá tranquilo: frenos y distribución revisados recientemente. Algunos detalles estéticos menores por el uso, sin nada mecánico pendiente. Se entrega con VTV/ITV vigente y libre de deuda."
+    },
+    "fotos": [
+      "images/citroen-c3-negro/1.jpg",
+      "images/citroen-c3-negro/2.jpg"
+    ]
+  },
+  {
+    "id": "0003",
+    "categoria": "auto",
+    "destacado": false,
+    "estado": "disponible",
+    "marca": "Volkswagen",
+    "modelo": "Gol Trend 1.6",
+    "anio": 2018,
+    "precio": 9800,
+    "moneda": "EUR",
+    "km": 68000,
+    "combustible": "Nafta",
+    "transmision": "Manual",
+    "color": "Gris",
+    "resumen": {
+      "es": "Auto de ciudad, económico, mantenimiento simple y bajo consumo."
+    },
+    "descripcion": {
+      "es": "Volkswagen Gol Trend 1.6, único dueño, service oficial al día. Cubiertas nuevas colocadas hace pocos meses. Equipamiento: aire acondicionado, dirección asistida, bluetooth y sensores de estacionamiento. Muy buen auto de entrada, bajo consumo y repuestos accesibles."
+    },
+    "fotos": [
+      "images/vw-gol-trend/1.png",
+      "images/vw-gol-trend/2.png"
+    ]
+  },
+  {
+    "id": "0004",
+    "categoria": "auto",
+    "destacado": false,
+    "estado": "vendido",
+    "marca": "Chevrolet",
+    "modelo": "Onix 1.4 LTZ",
+    "anio": 2020,
+    "precio": 13500,
+    "moneda": "EUR",
+    "km": 41000,
+    "combustible": "Nafta",
+    "transmision": "Manual",
+    "color": "Blanco",
+    "resumen": {
+      "es": "Full equipo, pantalla multimedia. Vendido — se deja como referencia."
+    },
+    "descripcion": {
+      "es": "Chevrolet Onix full equipo, pantalla multimedia, sensores de estacionamiento delanteros y traseros. Impecable estado general. Esta unidad ya fue vendida, se mantiene publicada solo como referencia."
+    },
+    "fotos": [
+      "images/chevrolet-onix/1.jpg"
+    ]
+  }
+]
