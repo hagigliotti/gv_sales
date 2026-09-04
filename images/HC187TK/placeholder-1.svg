@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#26292f"/>
+  <text x="200" y="155" font-family="monospace" font-size="16" fill="#9199a3" text-anchor="middle">Foto del auto</text>
+  <text x="200" y="178" font-family="monospace" font-size="12" fill="#9199a3" text-anchor="middle">reemplazar en /images</text>
+</svg>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lote 12 — Auto private in vendita</title>
+  <meta name="description" content="Catalogo di auto private in vendita, con contatto diretto su WhatsApp." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+  <header class="header">
+    <div class="wrap header__row">
+      <div class="brand">
+        <span class="brand__mark">●</span>
+        <span id="site-nombre" class="brand__nombre">Lote 12</span>
+      </div>
+      <nav class="nav">
+        <a href="#stock" id="nav-autos" class="nav__link nav__link--activo">Auto</a>
+        <span id="nav-servicios" class="nav__link nav__link--proximo">Servizi</span>
+        <span id="nav-otros" class="nav__link nav__link--proximo">Altri settori</span>
+      </nav>
+      <div id="lang-switch" class="lang-switch"></div>
+    </div>
+  </header>
+
+  <section class="intro">
+    <div class="wrap">
+      <p id="site-eslogan" class="intro__texto">Auto private, controllate e con documenti in regola.</p>
+    </div>
+  </section>
+
+  <main class="wrap">
+    <section id="destacado-wrap" aria-label="Auto in evidenza"></section>
+
+    <section id="stock" class="stock">
+      <div class="stock__header">
+        <h2 id="stock-titulo">Tutto lo stock</h2>
+        <span id="stock-nota" class="stock__nota"></span>
+      </div>
+      <div id="grid" class="grid"></div>
+      <p id="vacio" class="vacio" hidden></p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer__row">
+      <div>
+        <div class="brand brand--footer"><span class="brand__mark">●</span><span id="site-nombre-footer">Lote 12</span></div>
+        <p class="footer__ciudad">📍 <span id="site-ciudad"></span></p>
+      </div>
+      <div class="footer__contacto">
+        <a id="footer-whatsapp" href="#" target="_blank" rel="noopener" class="btn btn--accent"></a>
+        <a id="site-email" href="#" class="footer__email"></a>
+      </div>
+    </div>
+    <div class="wrap footer__aviso" id="footer-aviso"></div>
+  </footer>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

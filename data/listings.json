@@ -1,0 +1,465 @@
+[
+  {
+    "id": "0001",
+    "categoria": "auto",
+    "destacado": true,
+    "estado": "disponible",
+    "marca": "Citroën",
+    "modelo": "C3 1.1 Exclusive — 2ª serie (2009–2017)",
+    "anio": 2012,
+    "precio": 3990,
+    "moneda": "EUR",
+    "km": 195352,
+    "combustible": "Nafta + GPL",
+    "transmision": "Manual",
+    "color": "Blanco",
+
+    "_ejemplo": "Ficha de EJEMPLO con todas las secciones posibles y sus tipos de dato. Reemplazá cada valor por el real de tu auto. Podés borrar cualquier campo/sección que no uses.",
+
+    "resumen": {
+      "es": ""
+    },
+    "descripcion": {
+      "es": ""
+    },
+
+    "datosBasicos": {
+      "carroceria": "Hatchback",
+      "condicionVenta": "",
+      "traccion": "",
+      "plazas": 5,
+      "puertas": 5
+    },
+
+    "historial": {
+      "primeraMatriculacion": "24/04/2012",
+      "ultimaRevision": "27/03/2026",
+      "revisionValidaHasta": "",
+      "propietariosAnteriores": "",
+      "guiaMantenimiento": "",
+      "noFumadores": "",
+      "kitDistribucion": "",
+      "filtroAireHabitaculo": "",
+      "cambioAceite": "",
+      "cambioEmbrague": "",
+      "tipoCubiertas": "4 estaciones",
+      "medidasCubiertas": {
+        "es": "185/65 R15 81T o 195/55 R16 81T (medidas homologadas)",
+        "it": "185/65 R15 81T o 195/55 R16 81T (misure omologate)",
+        "en": "185/65 R15 81T or 195/55 R16 81T (approved sizes)",
+        "fr": "185/65 R15 81T ou 195/55 R16 81T (dimensions homologuées)",
+        "de": "185/65 R15 81T oder 195/55 R16 81T (zugelassene Größen)"
+      },
+      "cambioCubiertas": "",
+      "escobillas": {
+        "es": "Enero 2026",
+        "it": "Gennaio 2026",
+        "en": "January 2026",
+        "fr": "Janvier 2026",
+        "de": "Januar 2026"
+      },
+      "numeroLlaves": "",
+      "paisOrigen": "Italia",
+      "aseguradora": "Prima Assicurazioni",
+      "seguroValidoHasta": "11/04/2027",
+      "seguroEstado": "Asegurado",
+      "bolloEstado": "Pagado",
+      "bolloValidoHasta": "31/12/2026",
+
+      "revisionesTecnicas": [
+        { "fecha": "18/05/2020", "resultado": "Regular", "km": 109588 },
+        { "fecha": "15/03/2022", "resultado": "Regular", "km": 132018 },
+        { "fecha": "22/03/2024", "resultado": "Regular", "km": 162740 },
+        { "fecha": "27/03/2026", "resultado": "Regular", "km": 195352, "nota": "Corresponde a la matrícula nueva" }
+      ],
+      "notaMatricula": {
+        "es": "La matrícula fue reemplazada por normativa (Codice della Strada, art. 100/102), que exige placas siempre legibles y en buen estado.",
+        "it": "La targa è stata sostituita per adempiere alla normativa (Codice della Strada, art. 100/102), che impone targhe sempre leggibili e in buono stato.",
+        "en": "The license plate was replaced to comply with regulations (Codice della Strada, art. 100/102), which require plates to always be legible and in good condition.",
+        "fr": "La plaque d'immatriculation a été remplacée conformément à la réglementation (Codice della Strada, art. 100/102), qui exige des plaques toujours lisibles et en bon état.",
+        "de": "Das Kennzeichen wurde gemäß den Vorschriften (Codice della Strada, Art. 100/102) ausgetauscht, die stets lesbare und intakte Kennzeichen vorschreiben."
+      }
+    },
+
+    "datosTecnicos": {
+      "potencia": "44,10 kW (~60 CV)",
+      "cilindrada": "1.124 cm³",
+      "velocidadesCaja": {
+        "es": "5 + retroceso",
+        "it": "5 + retromarcia",
+        "en": "5 + reverse",
+        "fr": "5 + marche arrière",
+        "de": "5 + Rückwärtsgang"
+      },
+      "cilindros": "",
+      "tara": "775 kg",
+      "consumoMixto": "",
+      "autonomiaGPL": "~400 km",
+      "emisionesCO2": "137,0 g/km",
+      "claseEmision": "",
+      "claseAmbiental": "Euro 5A",
+      "precioListaOriginal": "15.610 €"
+    },
+
+    "colorTapiceria": {
+      "colorExterior": "Blanco",
+      "acabadoPintura": "",
+      "colorInterior": "",
+      "tapiceria": ""
+    },
+
+    "multimediaInstalada": {
+      "marca": "Hizpo",
+      "modelo": "9'' Android — específico para Citroën C3 / DS3 (2010–2016), Doble Din",
+      "tamanoPantalla": "9 pulgadas, pantalla táctil QLED 1280×720",
+      "sistemaOperativo": "Android 13",
+      "memoria": "1GB RAM + 32GB de almacenamiento",
+      "conectividad": {
+        "es": "WiFi, Apple CarPlay y Android Auto inalámbricos, Bluetooth manos libres, GPS con mapas offline, 3 puertos USB, micrófono externo incluido, puerto para SIM de teléfono, control por voz, control desde el volante, radio FM/RDS, soporte 4G y Can-Bus",
+        "it": "WiFi, Apple CarPlay e Android Auto wireless, Bluetooth vivavoce, GPS con mappe offline, 3 porte USB, microfono esterno incluso, slot per SIM telefonica, controllo vocale, comandi al volante, radio FM/RDS, supporto 4G e Can-Bus",
+        "en": "WiFi, wireless Apple CarPlay and Android Auto, hands-free Bluetooth, GPS with offline maps, 3 USB ports, external microphone included, phone SIM card slot, voice control, steering wheel controls, FM/RDS radio, 4G and Can-Bus support",
+        "fr": "WiFi, Apple CarPlay et Android Auto sans fil, Bluetooth mains libres, GPS avec cartes hors ligne, 3 ports USB, microphone externe inclus, emplacement pour carte SIM, commande vocale, commandes au volant, radio FM/RDS, prise en charge 4G et Can-Bus",
+        "de": "WiFi, kabelloses Apple CarPlay und Android Auto, Freisprech-Bluetooth, GPS mit Offline-Karten, 3 USB-Anschlüsse, externes Mikrofon inklusive, SIM-Kartensteckplatz, Sprachsteuerung, Lenkradbedienung, UKW/RDS-Radio, 4G- und Can-Bus-Unterstützung"
+      },
+      "notas": {
+        "es": "Se entrega también el tablero y el estéreo originales de fábrica (por si el comprador prefiere volver a la configuración original).",
+        "it": "Vengono consegnati anche il cruscotto e l'autoradio originali di fabbrica (nel caso l'acquirente preferisca tornare alla configurazione originale).",
+        "en": "The original factory dashboard and stereo are also included (in case the buyer prefers to go back to the original setup).",
+        "fr": "Le tableau de bord et l'autoradio d'origine sont également fournis (au cas où l'acheteur préférerait revenir à la configuration d'origine).",
+        "de": "Das originale Werksarmaturenbrett und -radio werden ebenfalls mitgeliefert (falls der Käufer die Originalkonfiguration bevorzugt)."
+      }
+    },
+
+    "noIncluido": {
+      "es": ["Baliza para ruta", "Kit de cambio de neumático", "Gato (cric) para levantar el auto", "Rueda de auxilio", "Chaleco reflectivo", "Llave de cruz", "Matafuego", "Cables para puentear la batería", "Bolsa mortuoria", "Maletero portátil"],
+      "it": ["Triangolo di emergenza", "Kit cambio pneumatico", "Cric per sollevare l'auto", "Ruota di scorta", "Giubbotto catarifrangente", "Chiave a croce", "Estintore", "Cavi ponte per la batteria", "Sacco mortuario", "Organizer portatile da bagagliaio"],
+      "en": ["Roadside warning triangle", "Tire change kit", "Car jack", "Spare wheel", "Hi-vis reflective vest", "Wheel brace (lug wrench)", "Fire extinguisher", "Jumper cables", "Body bag", "Portable trunk organizer"],
+      "fr": ["Triangle de signalisation", "Kit de changement de pneu", "Cric de levage", "Roue de secours", "Gilet réfléchissant", "Clé en croix", "Extincteur", "Câbles de démarrage", "Housse mortuaire", "Coffre de rangement portable"],
+      "de": ["Warndreieck", "Reifenwechsel-Set", "Wagenheber", "Ersatzrad", "Warnweste", "Radkreuzschlüssel", "Feuerlöscher", "Starthilfekabel", "Leichensack", "Tragbarer Kofferraum-Organizer"]
+    },
+
+    "accesoriosInstalados": [
+      {
+        "nombre": {
+          "es": "Sensor de presión de neumáticos (TPMS) por USB",
+          "it": "Sensore di pressione pneumatici (TPMS) USB",
+          "en": "Tire pressure sensor (TPMS) via USB",
+          "fr": "Capteur de pression des pneus (TPMS) USB",
+          "de": "Reifendruck-Sensor (TPMS) per USB"
+        },
+        "marca": "JMCQ",
+        "modelo": "USB TPMS",
+        "descripcion": {
+          "es": "Sistema con 5 sensores (4 externos + 1 interno) que muestra presión y temperatura de cada neumático en tiempo real. Se conecta por USB a la pantalla multimedia (5V), sin necesidad de baterías. Certificación CE.",
+          "it": "Sistema con 5 sensori (4 esterni + 1 interno) che mostra pressione e temperatura di ogni pneumatico in tempo reale. Si collega tramite USB allo schermo multimediale (5V), senza bisogno di batterie. Certificazione CE.",
+          "en": "System with 5 sensors (4 external + 1 internal) showing each tire's pressure and temperature in real time. Connects via USB to the multimedia screen (5V), no batteries needed. CE certified.",
+          "fr": "Système à 5 capteurs (4 externes + 1 interne) affichant la pression et la température de chaque pneu en temps réel. Se connecte en USB à l'écran multimédia (5V), sans besoin de piles. Certifié CE.",
+          "de": "System mit 5 Sensoren (4 außen + 1 innen), zeigt Druck und Temperatur jedes Reifens in Echtzeit an. Wird per USB an den Multimedia-Bildschirm angeschlossen (5V), keine Batterien nötig. CE-zertifiziert."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Kit de sensores de estacionamiento traseros",
+          "it": "Kit di sensori di parcheggio posteriori",
+          "en": "Rear parking sensor kit",
+          "fr": "Kit de capteurs de stationnement arrière",
+          "de": "Hintere Einparksensoren-Set"
+        },
+        "marca": "First Safe",
+        "modelo": "KZ",
+        "descripcion": {
+          "es": "Kit con 4 sensores traseros y central con alarma sonora y salida de video (RCA). Instalado parcialmente — confirmar con el comprador qué partes quedaron colocadas. Rango de detección: 0,3–2,5 m.",
+          "it": "Kit con 4 sensori posteriori e centralina con allarme sonoro e uscita video (RCA). Installato parzialmente — verificare con l'acquirente quali parti sono state montate. Raggio di rilevamento: 0,3–2,5 m.",
+          "en": "Kit with 4 rear sensors and a control unit with audible alarm and video output (RCA). Partially installed — confirm with the buyer which parts were fitted. Detection range: 0.3–2.5 m.",
+          "fr": "Kit avec 4 capteurs arrière et boîtier avec alarme sonore et sortie vidéo (RCA). Installation partielle — à confirmer avec l'acheteur quelles pièces ont été posées. Portée de détection : 0,3–2,5 m.",
+          "de": "Set mit 4 hinteren Sensoren und Steuergerät mit akustischem Alarm und Videoausgang (RCA). Teilweise installiert — mit dem Käufer klären, welche Teile verbaut wurden. Erkennungsbereich: 0,3–2,5 m."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Cámara de visión trasera",
+          "it": "Telecamera di retromarcia",
+          "en": "Rear-view camera",
+          "fr": "Caméra de recul",
+          "de": "Rückfahrkamera"
+        },
+        "marca": "First Safe",
+        "modelo": "KZ",
+        "descripcion": {
+          "es": "Cámara de visión trasera, se conecta a la pantalla multimedia por RCA.",
+          "it": "Telecamera di retromarcia, si collega allo schermo multimediale tramite RCA.",
+          "en": "Rear-view camera, connects to the multimedia screen via RCA.",
+          "fr": "Caméra de recul, se connecte à l'écran multimédia via RCA.",
+          "de": "Rückfahrkamera, wird per RCA an den Multimedia-Bildschirm angeschlossen."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Soporte de cámara de visión trasera",
+          "it": "Supporto per telecamera di retromarcia",
+          "en": "Rear-view camera mount",
+          "fr": "Support pour caméra de recul",
+          "de": "Halterung für Rückfahrkamera"
+        },
+        "marca": "First Safe",
+        "modelo": "KZ",
+        "descripcion": {
+          "es": "Soporte de montaje para la cámara de visión trasera.",
+          "it": "Supporto di montaggio per la telecamera di retromarcia.",
+          "en": "Mounting bracket for the rear-view camera.",
+          "fr": "Support de montage pour la caméra de recul.",
+          "de": "Montagehalterung für die Rückfahrkamera."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Instalación de GPL (bi-fuel)",
+          "it": "Impianto GPL (bi-fuel)",
+          "en": "LPG installation (bi-fuel)",
+          "fr": "Installation GPL (bi-carburant)",
+          "de": "Autogas-Anlage (LPG, bi-fuel)"
+        },
+        "marca": "BRC",
+        "modelo": "",
+        "descripcion": {
+          "es": "El auto tiene instalación de GPL además de nafta (bi-fuel), instalada el 24/04/2012. Tanque de 44 litros ubicado en el hueco de la rueda de auxilio. Sistema con reductor y kit de seguridad ECE/ONU 67.01.",
+          "it": "L'auto ha un impianto GPL oltre alla benzina (bi-fuel), installato il 24/04/2012. Serbatoio da 44 litri collocato nel vano ruota di scorta. Sistema con riduttore e kit di sicurezza ECE/ONU 67.01.",
+          "en": "The car has an LPG installation in addition to petrol (bi-fuel), fitted on 24/04/2012. 44-liter tank located in the spare wheel well. System with pressure reducer and ECE/ONU 67.01 safety kit.",
+          "fr": "La voiture dispose d'une installation GPL en plus de l'essence (bi-carburant), installée le 24/04/2012. Réservoir de 44 litres situé dans le logement de la roue de secours. Système avec détendeur et kit de sécurité ECE/ONU 67.01.",
+          "de": "Das Auto verfügt zusätzlich zu Benzin über eine Autogasanlage (LPG, bi-fuel), installiert am 24.04.2012. 44-Liter-Tank im Reserveradmulde. System mit Druckminderer und ECE/ONU-67.01-Sicherheitskit."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Kit de pedalera deportiva (color rojo)",
+          "it": "Kit pedaliera sportiva (rosso)",
+          "en": "Sport pedal kit (red)",
+          "fr": "Kit de pédalier sport (rouge)",
+          "de": "Sport-Pedalset (rot)"
+        },
+        "marca": "",
+        "modelo": "",
+        "descripcion": {
+          "es": "Incluido en la venta pero no instalado — se entrega junto con el auto para que el comprador lo instale si quiere.",
+          "it": "Incluso nella vendita ma non installato — viene consegnato insieme all'auto per chi lo voglia montare.",
+          "en": "Included in the sale but not installed — provided along with the car for the buyer to fit if they wish.",
+          "fr": "Inclus dans la vente mais non installé — fourni avec la voiture pour que l'acheteur le monte s'il le souhaite.",
+          "de": "Im Verkauf enthalten, aber nicht montiert — wird zusammen mit dem Auto übergeben, falls der Käufer es einbauen möchte."
+        }
+      }
+    ],
+
+    "equipamiento": {
+      "comodidad": { "es": [] },
+      "multimedia": { "es": [] },
+      "seguridad": { "es": [] },
+      "extra": {
+        "es": ["Antena original", "Reloj de estacionamiento", "Espejo en el parasol del acompañante", "Cambio de luces exteriores a LED, alta visibilidad", "Refractivos en las 4 puertas para visualización", "Cubierta metálica para cerradura", "1 juego de tapas de válvulas para neumáticos", "Funda para llave de 2 botones", "Tapa central de rueda con logo Citroën", "Kit de tapas de tuercas de rueda 17mm", "Adaptador GPL", "Manuales originales"],
+        "it": ["Antenna originale", "Disco orario (segnalatore di sosta)", "Specchietto sul parasole lato passeggero", "Luci esterne convertite a LED, alta visibilità", "Catadiottri sulle 4 portiere", "Copertura metallica per la serratura", "1 set di cappucci per valvole pneumatici", "Custodia per chiave a 2 pulsanti", "Copricerchio centrale con logo Citroën", "Kit di copridadi ruota 17mm", "Adattatore GPL", "Manuali originali"],
+        "en": ["Original antenna", "Parking disc/timer", "Passenger-side sun visor mirror", "Exterior lights converted to LED, highly visible", "Reflectors on all 4 doors", "Metal cover for the lock", "1 set of tire valve caps", "Case for 2-button key fob", "Center wheel cap with Citroën logo", "17mm wheel nut cap kit", "LPG filling adapter", "Original manuals"],
+        "fr": ["Antenne d'origine", "Disque de stationnement", "Miroir de courtoisie sur le pare-soleil passager", "Éclairage extérieur converti en LED, haute visibilité", "Réflecteurs sur les 4 portières", "Cache métallique pour la serrure", "1 jeu de bouchons de valve pour pneus", "Étui pour clé à 2 boutons", "Cache central de roue avec logo Citroën", "Kit de caches écrou de roue 17mm", "Adaptateur GPL", "Manuels d'origine"],
+        "de": ["Original-Antenne", "Parkscheibe", "Schminkspiegel an der Beifahrer-Sonnenblende", "Außenbeleuchtung auf LED umgerüstet, gut sichtbar", "Reflektoren an allen 4 Türen", "Metallabdeckung für das Schloss", "1 Satz Reifenventilkappen", "Hülle für Schlüssel mit 2 Tasten", "Radnabendeckel mit Citroën-Logo", "Radmutternkappen-Set 17mm", "LPG-Tankadapter", "Original-Handbücher"]
+      }
+    },
+
+    "mantenimiento": [],
+
+    "fotos": [
+      "images/citroen-c3-blanco/1.jpg",
+      "images/citroen-c3-blanco/2.jpg",
+      "images/citroen-c3-blanco/3.jpg"
+    ]
+  },
+  {
+    "id": "0002",
+    "categoria": "auto",
+    "destacado": false,
+    "estado": "disponible",
+    "marca": "Citroën",
+    "modelo": "C3",
+    "anio": 2020,
+    "precio": 10000,
+    "moneda": "EUR",
+    "km": 100000,
+    "combustible": "Nafta + GPL",
+    "transmision": "Manual",
+    "color": "Negro",
+    "resumen": {
+      "es": "Ejemplo: mismo modelo que el blanco, en negro. Completar con datos reales."
+    },
+    "descripcion": {
+      "es": "Ejemplo: descripción completa del auto negro. Reemplazar por texto real."
+    },
+
+    "datosTecnicos": {
+      "velocidadesCaja": {
+        "es": "5 + retroceso",
+        "it": "5 + retromarcia",
+        "en": "5 + reverse",
+        "fr": "5 + marche arrière",
+        "de": "5 + Rückwärtsgang"
+      },
+      "emisionesCO2": "137,0 g/km",
+      "claseAmbiental": "Euro 5",
+      "autonomiaGPL": "~400 km"
+    },
+
+    "historial": {
+      "escobillas": {
+        "es": "Enero 2026",
+        "it": "Gennaio 2026",
+        "en": "January 2026",
+        "fr": "Janvier 2026",
+        "de": "Januar 2026"
+      },
+      "aseguradora": "Prima Assicurazioni",
+      "seguroValidoHasta": "17/01/2027",
+      "seguroEstado": "Asegurado",
+      "bolloEstado": "Pagado",
+      "bolloValidoHasta": "31/08/2027",
+
+      "revisionesTecnicas": [
+        { "fecha": "13/01/2020", "resultado": "Regular", "km": 78286 },
+        { "fecha": "04/01/2022", "resultado": "Regular", "km": 86927 },
+        { "fecha": "05/01/2024", "resultado": "Regular", "km": 94344 },
+        { "fecha": "05/12/2025", "resultado": "Regular", "km": 100700 }
+      ]
+    },
+
+    "multimediaInstalada": {
+      "marca": "Hizpo",
+      "modelo": "9'' Android — específico para Citroën C3 / DS3 (2010–2016), Doble Din",
+      "tamanoPantalla": "9 pulgadas, pantalla táctil QLED 1280×720",
+      "sistemaOperativo": "Android 13",
+      "memoria": "1GB RAM + 32GB de almacenamiento",
+      "conectividad": {
+        "es": "WiFi, Apple CarPlay y Android Auto inalámbricos, Bluetooth manos libres, GPS con mapas offline, 3 puertos USB, micrófono externo incluido, puerto para SIM de teléfono, control por voz, control desde el volante, radio FM/RDS, soporte 4G y Can-Bus",
+        "it": "WiFi, Apple CarPlay e Android Auto wireless, Bluetooth vivavoce, GPS con mappe offline, 3 porte USB, microfono esterno incluso, slot per SIM telefonica, controllo vocale, comandi al volante, radio FM/RDS, supporto 4G e Can-Bus",
+        "en": "WiFi, wireless Apple CarPlay and Android Auto, hands-free Bluetooth, GPS with offline maps, 3 USB ports, external microphone included, phone SIM card slot, voice control, steering wheel controls, FM/RDS radio, 4G and Can-Bus support",
+        "fr": "WiFi, Apple CarPlay et Android Auto sans fil, Bluetooth mains libres, GPS avec cartes hors ligne, 3 ports USB, microphone externe inclus, emplacement pour carte SIM, commande vocale, commandes au volant, radio FM/RDS, prise en charge 4G et Can-Bus",
+        "de": "WiFi, kabelloses Apple CarPlay und Android Auto, Freisprech-Bluetooth, GPS mit Offline-Karten, 3 USB-Anschlüsse, externes Mikrofon inklusive, SIM-Kartensteckplatz, Sprachsteuerung, Lenkradbedienung, UKW/RDS-Radio, 4G- und Can-Bus-Unterstützung"
+      },
+      "notas": {
+        "es": "Este auto se entrega con el tablero original, pero con un estéreo alternativo colocado por el dueño anterior.",
+        "it": "Questa auto viene consegnata con il cruscotto originale, ma con un autoradio alternativo installato dal proprietario precedente.",
+        "en": "This car comes with the original dashboard, but with an alternative stereo fitted by the previous owner.",
+        "fr": "Cette voiture est livrée avec le tableau de bord d'origine, mais avec un autoradio alternatif installé par le précédent propriétaire.",
+        "de": "Dieses Auto wird mit dem originalen Armaturenbrett geliefert, jedoch mit einem vom Vorbesitzer eingebauten alternativen Radio."
+      }
+    },
+
+    "noIncluido": {
+      "es": ["Baliza para ruta", "Kit de cambio de neumático", "Gato (cric) para levantar el auto", "Rueda de auxilio", "Chaleco reflectivo", "Llave de cruz", "Matafuego", "Cables para puentear la batería", "Bolsa mortuoria", "Maletero portátil"],
+      "it": ["Triangolo di emergenza", "Kit cambio pneumatico", "Cric per sollevare l'auto", "Ruota di scorta", "Giubbotto catarifrangente", "Chiave a croce", "Estintore", "Cavi ponte per la batteria", "Sacco mortuario", "Organizer portatile da bagagliaio"],
+      "en": ["Roadside warning triangle", "Tire change kit", "Car jack", "Spare wheel", "Hi-vis reflective vest", "Wheel brace (lug wrench)", "Fire extinguisher", "Jumper cables", "Body bag", "Portable trunk organizer"],
+      "fr": ["Triangle de signalisation", "Kit de changement de pneu", "Cric de levage", "Roue de secours", "Gilet réfléchissant", "Clé en croix", "Extincteur", "Câbles de démarrage", "Housse mortuaire", "Coffre de rangement portable"],
+      "de": ["Warndreieck", "Reifenwechsel-Set", "Wagenheber", "Ersatzrad", "Warnweste", "Radkreuzschlüssel", "Feuerlöscher", "Starthilfekabel", "Leichensack", "Tragbarer Kofferraum-Organizer"]
+    },
+
+    "accesoriosInstalados": [
+      {
+        "nombre": {
+          "es": "Cámara de visión trasera",
+          "it": "Telecamera di retromarcia",
+          "en": "Rear-view camera",
+          "fr": "Caméra de recul",
+          "de": "Rückfahrkamera"
+        },
+        "marca": "First Safe",
+        "modelo": "KZ",
+        "descripcion": {
+          "es": "Cámara de visión trasera, se conecta a la pantalla multimedia por RCA.",
+          "it": "Telecamera di retromarcia, si collega allo schermo multimediale tramite RCA.",
+          "en": "Rear-view camera, connects to the multimedia screen via RCA.",
+          "fr": "Caméra de recul, se connecte à l'écran multimédia via RCA.",
+          "de": "Rückfahrkamera, wird per RCA an den Multimedia-Bildschirm angeschlossen."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Soporte de cámara de visión trasera",
+          "it": "Supporto per telecamera di retromarcia",
+          "en": "Rear-view camera mount",
+          "fr": "Support pour caméra de recul",
+          "de": "Halterung für Rückfahrkamera"
+        },
+        "marca": "First Safe",
+        "modelo": "KZ",
+        "descripcion": {
+          "es": "Soporte de montaje para la cámara de visión trasera.",
+          "it": "Supporto di montaggio per la telecamera di retromarcia.",
+          "en": "Mounting bracket for the rear-view camera.",
+          "fr": "Support de montage pour la caméra de recul.",
+          "de": "Montagehalterung für die Rückfahrkamera."
+        }
+      }
+    ],
+
+    "equipamiento": {
+      "comodidad": { "es": [] },
+      "multimedia": { "es": [] },
+      "seguridad": { "es": [] },
+      "extra": {
+        "es": ["Antena original", "Reloj de estacionamiento", "Espejo en el parasol del acompañante", "Cambio de luces exteriores a LED, alta visibilidad", "Refractivos en las 4 puertas para visualización", "Cubierta metálica para cerradura", "1 juego de tapas de válvulas para neumáticos", "Funda para llave de 2 botones", "Adaptador GPL", "Manuales originales"],
+        "it": ["Antenna originale", "Disco orario (segnalatore di sosta)", "Specchietto sul parasole lato passeggero", "Luci esterne convertite a LED, alta visibilità", "Catadiottri sulle 4 portiere", "Copertura metallica per la serratura", "1 set di cappucci per valvole pneumatici", "Custodia per chiave a 2 pulsanti", "Adattatore GPL", "Manuali originali"],
+        "en": ["Original antenna", "Parking disc/timer", "Passenger-side sun visor mirror", "Exterior lights converted to LED, highly visible", "Reflectors on all 4 doors", "Metal cover for the lock", "1 set of tire valve caps", "Case for 2-button key fob", "LPG filling adapter", "Original manuals"],
+        "fr": ["Antenne d'origine", "Disque de stationnement", "Miroir de courtoisie sur le pare-soleil passager", "Éclairage extérieur converti en LED, haute visibilité", "Réflecteurs sur les 4 portières", "Cache métallique pour la serrure", "1 jeu de bouchons de valve pour pneus", "Étui pour clé à 2 boutons", "Adaptateur GPL", "Manuels d'origine"],
+        "de": ["Original-Antenne", "Parkscheibe", "Schminkspiegel an der Beifahrer-Sonnenblende", "Außenbeleuchtung auf LED umgerüstet, gut sichtbar", "Reflektoren an allen 4 Türen", "Metallabdeckung für das Schloss", "1 Satz Reifenventilkappen", "Hülle für Schlüssel mit 2 Tasten", "LPG-Tankadapter", "Original-Handbücher"]
+      }
+    },
+
+    "fotos": [
+      "images/citroen-c3-negro/1.jpg",
+      "images/citroen-c3-negro/2.jpg"
+    ]
+  },
+  {
+    "id": "0003",
+    "categoria": "auto",
+    "destacado": false,
+    "estado": "disponible",
+    "marca": "Volkswagen",
+    "modelo": "Gol Trend 1.6",
+    "anio": 2018,
+    "precio": 9800,
+    "moneda": "EUR",
+    "km": 68000,
+    "combustible": "Nafta",
+    "transmision": "Manual",
+    "color": "Gris",
+    "resumen": {
+      "es": "Ejemplo: auto de ciudad, económico. Completar con datos reales."
+    },
+    "descripcion": {
+      "es": "Ejemplo de descripción completa. Reemplazar por el texto real de este auto."
+    },
+    "fotos": [
+      "images/vw-gol-trend/1.png",
+      "images/vw-gol-trend/2.png"
+    ]
+  },
+  {
+    "id": "0004",
+    "categoria": "auto",
+    "destacado": false,
+    "estado": "vendido",
+    "marca": "Chevrolet",
+    "modelo": "Onix 1.4 LTZ",
+    "anio": 2020,
+    "precio": 13500,
+    "moneda": "EUR",
+    "km": 41000,
+    "combustible": "Nafta",
+    "transmision": "Manual",
+    "color": "Blanco",
+    "resumen": {
+      "es": "Ejemplo de auto marcado como vendido, se muestra tachado."
+    },
+    "descripcion": {
+      "es": "Ejemplo de descripción. Esta unidad figura vendida a modo de referencia del funcionamiento."
+    },
+    "fotos": [
+      "images/chevrolet-onix/1.jpg"
+    ]
+  }
+]
